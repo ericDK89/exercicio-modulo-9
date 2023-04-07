@@ -54,3 +54,7 @@ ol button {
   border: none;
   background: none;
 }
+
+.completed {
+  text-decoration: line-through;
+}
